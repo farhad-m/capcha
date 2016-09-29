@@ -11,7 +11,10 @@ simple use :
 <form  method="post">
 Enter Image Text
 <input name="captcha" type="text">
-<img src="captcha.php" /><br>
+<pre>
+<img src="captcha.php" />
+</pre>
+<br>
 <input name="submit" type="submit" value="Submit">
 </form>
 </body>
